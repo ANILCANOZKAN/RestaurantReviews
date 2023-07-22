@@ -1,0 +1,10 @@
+.article{
+    flex: auto;
+    background: gray;
+    border: #1a202c;
+    padding: 6rem;
+}
+.header{
+    background: blue;
+    font-size: small;
+}

@@ -1,0 +1,16 @@
+.checked {
+    display: inline;
+    margin-top: 3px;
+}
+
+.checked span {
+    cursor: pointer;
+    padding: 1px;
+}
+ .checked span.active {
+     color: orange;
+ }
+
+.checked span.off {
+    color: black;
+}
